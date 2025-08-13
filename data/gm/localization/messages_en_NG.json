@@ -1,0 +1,16 @@
+[
+  { "code": "TENANT_TENANTS_NG",                  "message": "Nigeria",        "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM",               "message": "Gombe State",    "module": "tenant", "locale": "en_NG" },
+
+  { "code": "TENANT_TENANTS_NG_GM_AKKO",          "message": "Akko",           "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM_BALANGA",       "message": "Balanga",        "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM_BILLIRI",       "message": "Billiri",        "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM_DUKKU",         "message": "Dukku",          "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM_FUNAKAYE",      "message": "Funakaye",       "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM_GOMBE",         "message": "Gombe",          "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM_KALTUNGO",      "message": "Kaltungo",       "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM_KWAMI",         "message": "Kwami",          "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM_NAFADA",        "message": "Nafada",         "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM_SHONGOM",       "message": "Shongom",        "module": "tenant", "locale": "en_NG" },
+  { "code": "TENANT_TENANTS_NG_GM_YAMALTU_DEBA",  "message": "Yamaltu/Deba",   "module": "tenant", "locale": "en_NG" }
+]

@@ -1,0 +1,32 @@
+{
+  "tenantId": "ng",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "ng",
+      "name": "Nigeria",
+      "description": "Country-level tenant",
+      "logoId": "",
+      "imageId": ""
+    },
+    {
+      "code": "ng.gm",
+      "name": "Gombe State",
+      "description": "State-level tenant in Nigeria",
+      "logoId": "",
+      "imageId": ""
+    },
+
+    { "code": "ng.gm.akko",          "name": "Akko",           "description": "LGA in Gombe State", "logoId": "", "imageId": "" },
+    { "code": "ng.gm.balanga",       "name": "Balanga",        "description": "LGA in Gombe State", "logoId": "", "imageId": "" },
+    { "code": "ng.gm.billiri",       "name": "Billiri",        "description": "LGA in Gombe State", "logoId": "", "imageId": "" },
+    { "code": "ng.gm.dukku",         "name": "Dukku",          "description": "LGA in Gombe State", "logoId": "", "imageId": "" },
+    { "code": "ng.gm.funakaye",      "name": "Funakaye",       "description": "LGA in Gombe State", "logoId": "", "imageId": "" },
+    { "code": "ng.gm.gombe",         "name": "Gombe",          "description": "LGA in Gombe State", "logoId": "", "imageId": "" },
+    { "code": "ng.gm.kaltungo",      "name": "Kaltungo",       "description": "LGA in Gombe State", "logoId": "", "imageId": "" },
+    { "code": "ng.gm.kwami",         "name": "Kwami",          "description": "LGA in Gombe State", "logoId": "", "imageId": "" },
+    { "code": "ng.gm.nafada",        "name": "Nafada",         "description": "LGA in Gombe State", "logoId": "", "imageId": "" },
+    { "code": "ng.gm.shongom",       "name": "Shongom",        "description": "LGA in Gombe State", "logoId": "", "imageId": "" },
+    { "code": "ng.gm.yamaltu_deba",  "name": "Yamaltu/Deba",   "description": "LGA in Gombe State", "logoId": "", "imageId": "" }
+  ]
+}

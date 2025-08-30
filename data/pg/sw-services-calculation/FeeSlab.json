@@ -1,0 +1,18 @@
+{
+<<<<<<< HEAD:data/pb/sw-services-calculation/FeeSlab.json
+  "tenantId": "pb",
+=======
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/sw-services-calculation/FeeSlab.json
+  "moduleName": "sw-services-calculation",
+  "FeeSlab": [
+    {
+      "formFee": 25,
+      "scrutinyFee": 250,
+      "meterCost": 850,
+      "other": 325,
+      "taxpercentage": 5,
+      "isActive": true
+    }
+  ]
+}

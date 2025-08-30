@@ -1,0 +1,27 @@
+{
+<<<<<<< HEAD:data/pb/sw-services-calculation/connectionCategory.json
+  "tenantId": "pb",
+=======
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/sw-services-calculation/connectionCategory.json
+  "moduleName": "sw-services-calculation",
+  "connectionCategory": [
+    {
+      "name": "Temporary",
+      "code": "Temporary",
+      "active": true
+    },
+    {
+      "name": "Permanent",
+      "code": "Permanent",
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "SW"
+    }
+  ]
+}

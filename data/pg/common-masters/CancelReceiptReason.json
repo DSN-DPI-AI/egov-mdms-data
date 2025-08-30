@@ -1,0 +1,38 @@
+{
+<<<<<<< HEAD:data/pb/common-masters/CancelReceiptReason.json
+  "tenantId": "pb",
+  "moduleName": "common-masters",
+  "CancelReceiptReason":
+  [
+    {
+      "code": "ERRORRECEIPT",
+      "active": true
+    },
+    {
+      "code": "CHEQUEBOUNCE",
+      "active": true
+    },
+    {
+      "code": "OTHER",
+      "active": true
+    }
+  ]
+=======
+    "tenantId": "pg",
+    "moduleName": "common-masters",
+    "CancelReceiptReason": [
+        {
+            "code": "ERRORRECEIPT",
+            "active": true
+        },
+        {
+            "code": "CHEQUEBOUNCE",
+            "active": true
+        },
+        {
+            "code": "OTHER",
+            "active": true
+        }
+    ]
+>>>>>>> lts-demo:data/pg/common-masters/CancelReceiptReason.json
+}

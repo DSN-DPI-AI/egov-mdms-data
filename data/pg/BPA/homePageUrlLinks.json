@@ -1,0 +1,30 @@
+{
+<<<<<<< HEAD:data/pb/BPA/homePageUrlLinks.json
+    "tenantId": "pb",
+=======
+    "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/BPA/homePageUrlLinks.json
+    "moduleName": "BPA",
+    "homePageUrlLinks": [
+       {
+        "applicationType": "BUILDING_PLAN_SCRUTINY",
+        "serviceType": "NEW_CONSTRUCTION",
+        "link": "/building_plan_scrutiny/new_construction",
+        "WFState": "INITIATED",
+        "flow": "BPA",
+        "active": true
+      },{
+        "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+        "serviceType": "NEW_CONSTRUCTION",
+        "link": "/building_oc_plan_scrutiny/new_construction",
+        "WFState": "INITIATED",
+        "flow": "OCBPA",
+        "active":true
+      }
+    ]
+<<<<<<< HEAD:data/pb/BPA/homePageUrlLinks.json
+  }
+  
+=======
+  }
+>>>>>>> lts-demo:data/pg/BPA/homePageUrlLinks.json

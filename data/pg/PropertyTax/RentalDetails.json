@@ -1,0 +1,20 @@
+{
+<<<<<<< HEAD:data/pb/PropertyTax/RentalDetails.json
+    "tenantId": "pb",
+=======
+    "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/PropertyTax/RentalDetails.json
+    "moduleName": "PropertyTax",
+    "RentalDetails": [
+      {
+        "name": "Tax is 7.5% of the annual rent for the rented part of the property.",
+        "code": "7_5_PERCENTTAX",
+        "active": true
+      }
+    ]
+<<<<<<< HEAD:data/pb/PropertyTax/RentalDetails.json
+  }
+  
+=======
+  }
+>>>>>>> lts-demo:data/pg/PropertyTax/RentalDetails.json

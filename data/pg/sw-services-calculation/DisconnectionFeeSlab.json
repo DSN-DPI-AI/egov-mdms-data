@@ -1,0 +1,22 @@
+{
+<<<<<<< HEAD:data/pb/sw-services-calculation/DisconnectionFeeSlab.json
+  "tenantId": "pb",
+  "moduleName": "sw-services-calculation",
+  "DisconnectionFeeSlab": [
+    {
+      "applicationFee": 0,
+      "isActive": true
+    }
+  ]
+}
+=======
+    "tenantId": "pg",
+    "moduleName": "sw-services-calculation",
+    "DisconnectionFeeSlab": [
+      {
+        "applicationFee": 0,
+        "isActive": true
+      }
+    ]
+  }
+>>>>>>> lts-demo:data/pg/sw-services-calculation/DisconnectionFeeSlab.json

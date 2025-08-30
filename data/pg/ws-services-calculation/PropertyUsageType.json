@@ -1,0 +1,28 @@
+{
+<<<<<<< HEAD:data/pb/ws-services-calculation/PropertyUsageType.json
+  "tenantId": "pb",
+=======
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/ws-services-calculation/PropertyUsageType.json
+  "moduleName": "ws-services-calculation",
+  "PropertyUsageType": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "unitCost" : 20,
+      "isActive": true
+    },
+{
+     "name": "Commercial",
+      "code": "NONRESIDENTIAL.COMMERCIAL",
+      "unitCost" : 30,
+      "isActive": true
+    },
+{
+      "name": "Industrial",
+      "code": "NONRESIDENTIAL.INDUSTRIAL",
+      "unitCost" : 15,
+      "isActive": true
+    }
+  ]
+}

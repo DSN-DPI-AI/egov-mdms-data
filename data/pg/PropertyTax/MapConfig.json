@@ -1,0 +1,23 @@
+{
+<<<<<<< HEAD:data/pb/PropertyTax/MapConfig.json
+    "tenantId": "pb",
+    "moduleName": "PropertyTax",
+    "MapConfig": [{
+        "defaultConfig": {
+            "lat": 31.6160638,
+            "lng": 74.8978579
+        }
+    }]
+=======
+    "tenantId": "pg",
+    "moduleName": "PropertyTax",
+    "MapConfig": [
+        {
+            "defaultConfig": {
+                "lat": 31.6160638,
+                "lng": 74.8978579
+            }
+        }
+    ]
+>>>>>>> lts-demo:data/pg/PropertyTax/MapConfig.json
+}

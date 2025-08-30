@@ -1,0 +1,15 @@
+{
+<<<<<<< HEAD:data/pb/BPA/TownPlanningScheme.json
+  "tenantId": "pb",
+=======
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/BPA/TownPlanningScheme.json
+  "moduleName": "BPA",
+  "TownPlanningScheme": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    }
+  ]
+}

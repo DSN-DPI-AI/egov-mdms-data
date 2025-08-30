@@ -1,0 +1,26 @@
+{
+<<<<<<< HEAD:data/pb/PropertyTax/ChargeSlabs.json
+  "tenantId": "pb",
+  "moduleName": "PropertyTax",
+  "ChargeSlabs": [
+    {
+      "name": "2 / Sq.Yards",
+      "code": "PT_CHARGE_SLAB_0",
+      "floorNo": 0,
+      "active": true
+    }
+  ]
+}
+=======
+    "tenantId": "pg",
+    "moduleName": "PropertyTax",
+    "ChargeSlabs": [
+      {
+        "name": "2 / Sq.Yards",
+        "code": "PT_CHARGE_SLAB_0",
+        "floorNo": 0,
+        "active": true
+      }
+    ]
+  }
+>>>>>>> lts-demo:data/pg/PropertyTax/ChargeSlabs.json

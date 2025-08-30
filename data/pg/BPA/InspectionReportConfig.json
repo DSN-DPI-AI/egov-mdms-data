@@ -1,0 +1,26 @@
+{
+<<<<<<< HEAD:data/pb/BPA/InspectionReportConfig.json
+    "tenantId": "pb",
+=======
+    "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/BPA/InspectionReportConfig.json
+    "moduleName": "BPA",
+    "InspectionReportConfig": [
+        {
+            "head": "",
+            "body": [
+                {
+                    "type": "component",
+                    "component": "InspectionReport",
+                    "key": "FieldReports",
+                    "withoutLabel": true,
+                    "hideInCitizen": true
+                }
+            ]
+        }
+    ]
+<<<<<<< HEAD:data/pb/BPA/InspectionReportConfig.json
+}
+=======
+} 
+>>>>>>> lts-demo:data/pg/BPA/InspectionReportConfig.json

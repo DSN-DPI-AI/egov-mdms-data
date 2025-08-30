@@ -1,0 +1,28 @@
+{
+<<<<<<< HEAD:data/pb/BillingService/GLCode.json
+	"tenantId": "pb",
+=======
+	"tenantId": "pg.citya",
+>>>>>>> lts-demo:data/pg/BillingService/GLCode.json
+	"moduleName": "BillingService",
+	"GLCode": [
+	{
+		"code": "BIRTH_CERT",
+		"glcode": null,
+<<<<<<< HEAD:data/pb/BillingService/GLCode.json
+		"cb": "pb.amritsar"
+=======
+		"cb": "pg.citya"
+>>>>>>> lts-demo:data/pg/BillingService/GLCode.json
+	},
+	{
+		"code": "DEATH_CERT",
+		"glcode": null,
+<<<<<<< HEAD:data/pb/BillingService/GLCode.json
+		"cb": "pb.amritsar"
+=======
+		"cb": "pg.citya"
+>>>>>>> lts-demo:data/pg/BillingService/GLCode.json
+	}
+	]
+}

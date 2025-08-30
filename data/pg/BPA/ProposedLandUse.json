@@ -1,0 +1,36 @@
+{
+<<<<<<< HEAD:data/pb/BPA/ProposedLandUse.json
+  "tenantId": "pb",
+=======
+<<<<<<<< HEAD:data/pb/BPA/OccupancyType.json
+   "tenantId":"pb",
+   "moduleName":"BPA",
+   "OccupancyType":[
+      {
+         "name":"Residential",
+         "code":"A",
+         "active":true,
+         "maxCoverage":65.0,
+         "minFar":3.0,
+         "maxFar":4.0,
+         "orderNumber":1,
+         "description":"Residential",
+         "colorCode":null
+      }
+   ]
+========
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/BPA/ProposedLandUse.json
+  "moduleName": "BPA",
+  "ProposedLandUse": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    }
+  ]
+<<<<<<< HEAD:data/pb/BPA/ProposedLandUse.json
+=======
+>>>>>>>> lts-demo:data/pg/BPA/ProposedLandUse.json
+>>>>>>> lts-demo:data/pg/BPA/ProposedLandUse.json
+}

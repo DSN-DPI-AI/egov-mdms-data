@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD:data/pb/common-masters/TablePaginationOptions.json
+    "tenantId": "pb",
+=======
+    "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/common-masters/TablePaginationOptions.json
+    "moduleName": "common-masters",
+    "TablePaginationOptions": [
+        {
+            "rowsPerPageOptions": [25, 50, 100],
+            "defaultValue": 100
+        }
+    ]
+}

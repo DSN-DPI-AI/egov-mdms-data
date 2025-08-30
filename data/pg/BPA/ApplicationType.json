@@ -1,0 +1,18 @@
+{
+  "tenantId": "pg",
+  "moduleName": "BPA",
+  "ApplicationType": [
+     {
+      "code": "BUILDING_PLAN_SCRUTINY",
+      "active": true
+<<<<<<< HEAD:data/pb/BPA/ApplicationType.json
+    },{
+=======
+    },
+    {
+>>>>>>> lts-demo:data/pg/BPA/ApplicationType.json
+      "code":"BUILDING_OC_PLAN_SCRUTINY",
+      "active":true
+    }
+  ]
+}

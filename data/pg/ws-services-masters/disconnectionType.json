@@ -1,0 +1,34 @@
+{
+<<<<<<< HEAD:data/pb/ws-services-masters/disconnectionType.json
+  "tenantId": "pb",
+  "moduleName": "ws-services-masters",
+  "disconnectionType": [
+    {
+      "name": "Permanent",
+      "code": "Permanent",
+      "active": true
+    },
+    {
+      "name": "Temporary",
+      "code": "Temporary",
+      "active": true
+    }
+  ]
+}
+=======
+    "tenantId": "pg",
+    "moduleName": "ws-services-masters",
+    "disconnectionType": [
+      {
+        "name": "Permanent",
+        "code": "Permanent",
+        "active": true
+      },
+      {
+        "name": "Temporary",
+        "code": "Temporary",
+        "active": true
+      }
+    ]
+  }
+>>>>>>> lts-demo:data/pg/ws-services-masters/disconnectionType.json

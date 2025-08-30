@@ -1,0 +1,20 @@
+{
+<<<<<<< HEAD:data/pb/TradeLicense/TradeRenewal.json
+  "tenantId": "pb",
+  "moduleName": "TradeLicense",
+  "TradeRenewal": [
+    {
+      "renewalPeriod" : 7889400000
+    }
+   ]
+}
+=======
+    "tenantId": "pg",
+    "moduleName": "TradeLicense",
+    "TradeRenewal": [
+        {
+            "renewalPeriod": 7889400000
+        }
+    ]
+}
+>>>>>>> lts-demo:data/pg/TradeLicense/TradeRenewal.json

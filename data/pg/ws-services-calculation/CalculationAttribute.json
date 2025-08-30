@@ -1,0 +1,32 @@
+{
+<<<<<<< HEAD:data/pb/ws-services-calculation/CalculationAttribute.json
+  "tenantId": "pb",
+=======
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/ws-services-calculation/CalculationAttribute.json
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Pipe Size",
+      "active": true
+    },
+    {
+      "name": "Bulk-supply",
+      "code": "Bulk-supply",
+      "attribute": "Pipe Size",
+<<<<<<< HEAD:data/pb/ws-services-calculation/CalculationAttribute.json
+      "active": true
+=======
+      "active": true    
+>>>>>>> lts-demo:data/pg/ws-services-calculation/CalculationAttribute.json
+    }
+  ]
+}

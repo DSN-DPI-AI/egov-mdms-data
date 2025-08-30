@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD:data/pb/ws-services-masters/PropertySearch.json
+  "tenantId": "pb",
+=======
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/ws-services-masters/PropertySearch.json
+  "moduleName": "ws-services-masters",
+  "PropertySearch": [
+    {
+      "code": "allowCitizenToUseAnyProperty",
+      "enabled": true
+    }
+  ]
+}

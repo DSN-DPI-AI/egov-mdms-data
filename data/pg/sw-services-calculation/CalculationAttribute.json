@@ -1,0 +1,16 @@
+{
+<<<<<<< HEAD:data/pb/sw-services-calculation/CalculationAttribute.json
+  "tenantId": "pb",
+=======
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/sw-services-calculation/CalculationAttribute.json
+  "moduleName": "sw-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "No. of water closets",
+      "active": true
+    }
+  ]
+}

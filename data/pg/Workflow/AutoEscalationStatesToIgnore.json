@@ -1,0 +1,24 @@
+{
+<<<<<<< HEAD:data/pb/Workflow/AutoEscalationStatesToIgnore.json
+  "tenantId": "pb",
+  "moduleName": "Workflow",
+  "AutoEscalationStatesToIgnore": [
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "state": ["INITIATED","PENDINGAPPROVAL"]
+    }
+  ]
+}
+=======
+    "tenantId": "pg",
+    "moduleName": "Workflow",
+    "AutoEscalationStatesToIgnore": [
+      {
+        "businessService": "NewTL",
+        "module": "TL",
+        "state": ["INITIATED","PENDINGAPPROVAL"]
+      }
+    ]
+  }
+>>>>>>> lts-demo:data/pg/Workflow/AutoEscalationStatesToIgnore.json

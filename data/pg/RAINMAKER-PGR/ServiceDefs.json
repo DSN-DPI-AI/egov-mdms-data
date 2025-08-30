@@ -1,0 +1,438 @@
+{
+  "tenantId": "pg",
+  "moduleName": "RAINMAKER-PGR",
+  "ServiceDefs": [
+    {
+      "serviceCode": "NoStreetlight",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "No Street Light",
+=======
+      "name": "No streetlight",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "StreetLights",
+      "active": true
+    },
+    {
+      "serviceCode": "NonSweepingOfRoad",
+      "name": "Non sweeping of road",
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Garbage",
+      "order": 5
+    },
+    {
+      "serviceCode": "StreetLightNotWorking",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Streetlight Not Working",
+=======
+      "name": "Streetlight not working",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "StreetLights",
+      "active": true,
+      "order": 1
+    },
+    {
+      "serviceCode": "GarbageNeedsTobeCleared",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Garbage Needs To be Cleared",
+=======
+      "name": "Garbage needs to be cleared",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "department": "DEPT_25",
+      "slaHours": 336,
+      "menuPath": "Garbage",
+      "active": true,
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "order": 3
+    },
+    {
+      "serviceCode": "DamagedGarbageBin",
+      "name": "Damaged Garbage Bin",
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "department": "DEPT_25",
+      "slaHours": 336,
+      "menuPath": "Garbage",
+      "active": true,
+=======
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "order": 4
+    },
+    {
+      "serviceCode": "DamagedGarbageBin",
+      "name": "Damaged garbage bin",
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Garbage",
+      "active": true
+    },
+    {
+      "serviceCode": "BurningOfGarbage",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Burning Of Garbage",
+=======
+      "name": "Burning of garbage",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "department": "DEPT_25",
+      "slaHours": 336,
+      "menuPath": "Garbage",
+      "active": true
+    },
+    {
+      "serviceCode": "OverflowingOrBlockedDrain",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Overflowing Or BlockedDrain",
+=======
+      "name": "Overflowing/Blocked drain",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "department": "ENG",
+      "slaHours": 336,
+      "menuPath": "Drains",
+      "active": true
+    },
+    {
+      "serviceCode": "illegalDischargeOfSewage",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Illegal Discharge Of Sewage",
+=======
+      "name": "Illegal discharge of sewage",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "department": "ENG",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "BlockOrOverflowingSewage",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Block Or Overflowing Sewage",
+=======
+      "name": "Block / Overflowing sewage",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "department": "ENG",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true,
+      "order": 2
+    },
+    {
+      "serviceCode": "ShortageOfWater",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Shortage Of Water",
+=======
+      "name": "Shortage of water",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "NoWaterSupply",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "No Water Supply",
+=======
+      "name": "No water supply",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "water, supply, connection, drink, tap",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "DirtyWaterSupply",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Dirty Water Supply",
+=======
+      "name": "Dirty water supply",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "BrokenWaterPipeOrLeakage",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Broken Water Pipe Or Leakage",
+=======
+      "name": "Broken water pipe / Leakage",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true,
+      "order": 3
+    },
+    {
+      "serviceCode": "WaterPressureisVeryLess",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Water Pressure is VeryLess",
+=======
+      "name": "Water pressure is very less",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "DamagedRoad",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Damaged Road",
+=======
+      "name": "Damaged road",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "WaterLoggedRoad",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Water Logged Road",
+=======
+      "name": "Water logged road",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "ManholeCoverMissingOrDamaged",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Manhole Cover Missing Or Damaged",
+=======
+      "name": "Manhole cover is missing/damaged",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "DamagedOrBlockedFootpath",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Damaged Or Blocked Footpath",
+=======
+      "name": "Damaged/blocked footpath",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "ConstructionMaterialLyingOntheRoad",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Construction Material Lying On the Road",
+=======
+      "name": "Construction material lying on the road",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "RequestSprayingOrFoggingOperation",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Request Spraying Or Fogging Operation",
+=======
+      "name": "Request spraying/ fogging operations",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Mosquitos",
+      "active": true
+    },
+    {
+      "serviceCode": "StrayAnimals",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Stray Animals",
+=======
+      "name": "Stray animals",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Animals",
+      "active": true
+    },
+    {
+      "serviceCode": "DeadAnimals",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Dead Animals",
+=======
+      "name": "Dead animals",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Animals",
+      "active": true
+    },
+    {
+      "serviceCode": "DirtyOrSmellyPublicToilets",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Dirty Or Smelly Public Toilets",
+=======
+      "name": "Dirty/smelly public toilet",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "PublicToilets",
+      "active": true
+    },
+    {
+      "serviceCode": "PublicToiletIsDamaged",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Public ToiletIs Damaged",
+=======
+      "name": "Public toilet damaged",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "PublicToilets",
+      "active": true
+    },
+    {
+      "serviceCode": "NoWaterOrElectricityinPublicToilet",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "No Water Or Electricity in Public Toilet",
+=======
+      "name": "No water/electricity in public toilet",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "PublicToilets",
+      "active": true
+    },
+    {
+      "serviceCode": "IllegalShopsOnFootPath",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Illegal Shops On Foot Path",
+=======
+      "name": "Illegal shops on footpath",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "LandViolations",
+      "active": true
+    },
+    {
+      "serviceCode": "IllegalConstructions",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Illegal Constructions",
+=======
+      "name": "Illegal constructions",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "LandViolations",
+      "active": true
+    },
+    {
+      "serviceCode": "IllegalParking",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Illegal Parking",
+=======
+      "name": "Illegal parking",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "LandViolations",
+      "active": true
+    },
+    {
+      "serviceCode": "IllegalCuttingOfTrees",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Illegal Cutting Of Trees",
+=======
+      "name": "Illegal Cutting of trees",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "department": "DEPT_5",
+      "slaHours": 336,
+      "menuPath": "Trees",
+      "active": true
+    },
+    {
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Cutting Or Trimming Of Tree Required",
+=======
+      "name": "Cutting/trimming of tree required",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "department": "DEPT_5",
+      "slaHours": 336,
+      "menuPath": "Trees",
+      "active": true
+    },
+    {
+      "serviceCode": "OpenDefecation",
+      "name": "Open Defecation",
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "OpenDefecation",
+      "active": true
+    },
+    {
+      "serviceCode": "ParkRequiresMaintenance",
+<<<<<<< HEAD:data/pb/RAINMAKER-PGR/ServiceDefs.json
+      "name": "Park Requires Maintenance",
+=======
+      "name": "Park requires maintenance",
+>>>>>>> lts-demo:data/pg/RAINMAKER-PGR/ServiceDefs.json
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "department": "DEPT_5",
+      "slaHours": 336,
+      "menuPath": "Parks",
+      "active": true
+    },
+    {
+      "serviceCode": "Others",
+      "name": "Others",
+      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "",
+      "active": true,
+      "order": 6
+    }
+  ]
+}

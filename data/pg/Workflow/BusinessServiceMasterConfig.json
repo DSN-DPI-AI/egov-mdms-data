@@ -1,0 +1,40 @@
+{
+<<<<<<< HEAD:data/pb/Workflow/BusinessServiceMasterConfig.json
+  "tenantId": "pb",
+  "moduleName": "Workflow",
+  "BusinessServiceMasterConfig": [
+    {
+      "businessService": "NewTL",
+      "active": "true",
+      "isStatelevel": "true"
+    },
+    {
+      "businessService": "PGR",
+      "active": "true",
+      "isStatelevel": "true"
+    },
+    {
+      "businessService": "DisconnectSWConnection1",
+      "active": "true",
+      "isStatelevel": "false"
+    }
+  ]
+}
+=======
+    "tenantId": "pg",
+    "moduleName": "Workflow",
+    "BusinessServiceMasterConfig": [
+      {
+        "businessService": "NewTL",
+        "active": "true",
+        "isStatelevel": "true"
+      },
+      {
+        "businessService": "PGR",
+        "active": "true",
+        "isStatelevel": "true"
+      }
+        
+    ]
+  }
+>>>>>>> lts-demo:data/pg/Workflow/BusinessServiceMasterConfig.json

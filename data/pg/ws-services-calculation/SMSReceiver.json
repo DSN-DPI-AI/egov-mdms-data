@@ -1,0 +1,35 @@
+{
+<<<<<<< HEAD:data/pb/ws-services-calculation/SMSReceiver.json
+  "tenantId": "pb",
+  "moduleName": "ws-services-calculation",
+  "SMSReceiver": [
+    {
+      "firstName": "WSEmp1",
+      "lastName": null,
+      "serviceName": "Water",
+      "ulbName": "Amritsar",
+      "mobileNumber": "7382193319",
+      "emailId": "priyanka@egovernments.org"
+    }
+  ]
+}
+
+
+
+
+
+=======
+    "tenantId": "pg",
+    "moduleName": "ws-services-calculation",
+    "SMSReceiver": [
+      {
+        "firstName": "SUL1",
+        "lastName": null,
+        "serviceName": "Water",
+        "ulbName": "Citya",
+        "mobileNumber": "9066766093",
+        "emailId": "navyashree.g@egovernments.org"
+      }
+    ]
+  }
+>>>>>>> lts-demo:data/pg/ws-services-calculation/SMSReceiver.json

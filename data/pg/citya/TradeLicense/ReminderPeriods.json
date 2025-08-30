@@ -1,0 +1,34 @@
+{
+<<<<<<< HEAD:data/pb/amritsar/TradeLicense/ReminderPeriods.json
+    "tenantId": "pb.amritsar",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "pb.amritsar",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "pb.jalandhar",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "pb.mohali",
+=======
+    "tenantId": "pg.citya",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "pg.citya",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "pg.cityb",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "pg.cityc",
+>>>>>>> lts-demo:data/pg/citya/TradeLicense/ReminderPeriods.json
+        "reminderInterval": 12345  
+      }
+    ]
+  }

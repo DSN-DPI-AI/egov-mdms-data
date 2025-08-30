@@ -1,0 +1,3906 @@
+{
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+  "tenantId": "pb",
+=======
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+  "moduleName": "tenant",
+  "nationalInfo": [
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.amritsar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Amritsar",
+=======
+      "name": "pb.amritsar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.jalandhar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Jalandhar",
+=======
+      "name": "pb.jalandhar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.phagwara",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Phagwara",
+=======
+      "name": "pb.phagwara",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.nawanshahr",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Nawanshahr",
+=======
+      "name": "pb.nawanshahr",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.derabassi",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Derabassi",
+=======
+      "name": "pb.derabassi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.abohar",
+      "name": "pb.abohar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.adampur",
+      "name": "pb.adampur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.ahmedgarh",
+      "name": "pb.ahmedgarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.ajnala",
+      "name": "pb.ajnala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.alawalpur",
+      "name": "pb.alawalpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.amargarh",
+      "name": "pb.amargarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.amloh",
+      "name": "pb.amloh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.anandpursahib",
+      "name": "pb.anandpursahib",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.arniwala",
+      "name": "pb.arniwala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.badhnikalan",
+      "name": "pb.badhnikalan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.baghapurana",
+      "name": "pb.baghapurana",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.balachaur",
+      "name": "pb.balachaur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.balianwali",
+      "name": "pb.balianwali",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.banga",
+      "name": "pb.banga",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.banur",
+      "name": "pb.banur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bareta",
+      "name": "pb.bareta",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bariwala",
+      "name": "pb.bariwala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.barnala",
+      "name": "pb.barnala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bassipathana",
+      "name": "pb.bassipathana",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.batala",
+      "name": "pb.batala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bathinda",
+      "name": "pb.bathinda",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.begowal",
+      "name": "pb.begowal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bhadaur",
+      "name": "pb.bhadaur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bhadson",
+      "name": "pb.bhadson",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bhagtabhai",
+      "name": "pb.bhagtabhai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bhairoopa",
+      "name": "pb.bhairoopa",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bhawanigarh",
+      "name": "pb.bhawanigarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bhikhi",
+      "name": "pb.bhikhi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bhikhiwind",
+      "name": "pb.bhikhiwind",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bhogpur",
+      "name": "pb.bhogpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bhuchomandi",
+      "name": "pb.bhuchomandi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bhulath",
+      "name": "pb.bhulath",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bilga",
+      "name": "pb.bilga",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.boha",
+      "name": "pb.boha",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.budhlada",
+      "name": "pb.budhlada",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.chamkaursahib",
+      "name": "pb.chamkaursahib",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.chaunke",
+      "name": "pb.chaunke",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.cheema",
+      "name": "pb.cheema",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.dasuya",
+      "name": "pb.dasuya",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.derababananak",
+      "name": "pb.derababananak",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.dhanaula",
+      "name": "pb.dhanaula",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.dharamkot",
+      "name": "pb.dharamkot",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.dhariwal",
+      "name": "pb.dhariwal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.dhilwan",
+      "name": "pb.dhilwan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.dhuri",
+      "name": "pb.dhuri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.dinanagar",
+      "name": "pb.dinanagar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.dirba",
+      "name": "pb.dirba",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.doraha",
+      "name": "pb.doraha",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.faridkot",
+      "name": "pb.faridkot",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.fatehgarhchurian",
+      "name": "pb.fatehgarhchurian",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.fatehgarhpanjtoor",
+      "name": "pb.fatehgarhpanjtoor",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.fazilka",
+      "name": "pb.fazilka",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.ferozepur",
+      "name": "pb.ferozepur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.garhdiwala",
+      "name": "pb.garhdiwala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.garhshankar",
+      "name": "pb.garhshankar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.ghagga",
+      "name": "pb.ghagga",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.ghanaur",
+      "name": "pb.ghanaur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.gidderbaha",
+      "name": "pb.gidderbaha",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.goniana",
+      "name": "pb.goniana",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.goraya",
+      "name": "pb.goraya",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.gurdaspur",
+      "name": "pb.gurdaspur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.guruharsahai",
+      "name": "pb.guruharsahai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.handiaya",
+      "name": "pb.handiaya",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.hariana",
+      "name": "pb.hariana",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.hoshiarpur",
+      "name": "pb.hoshiarpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.jagraon",
+      "name": "pb.jagraon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.jaitu",
+      "name": "pb.jaitu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.jalalabad",
+      "name": "pb.jalalabad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.jandialaguru",
+      "name": "pb.jandialaguru",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.joga",
+      "name": "pb.joga",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.kapurthala",
+      "name": "pb.kapurthala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.kartarpur",
+      "name": "pb.kartarpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.khamano",
+      "name": "pb.khamano",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.khanauri",
+      "name": "pb.khanauri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.khanna",
+      "name": "pb.khanna",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.kharar",
+      "name": "pb.kharar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.khemkaran",
+      "name": "pb.khemkaran",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.kiratpur",
+      "name": "pb.kiratpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.kotfatta",
+      "name": "pb.kotfatta",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.kothaguru",
+      "name": "pb.kothaguru",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.kotissekhan",
+      "name": "pb.kotissekhan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.kotkapura",
+      "name": "pb.kotkapura",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.kotshamir",
+      "name": "pb.kotshamir",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.kurali",
+      "name": "pb.kurali",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.lalru",
+      "name": "pb.lalru",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.lehragaga",
+      "name": "pb.lehragaga",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.lehramohabbat",
+      "name": "pb.lehramohabbat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.lohiankhas",
+      "name": "pb.lohiankhas",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.longowal",
+      "name": "pb.longowal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.ludhiana",
+      "name": "pb.ludhiana",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.machhiwara",
+      "name": "pb.machhiwara",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mahilpur",
+      "name": "pb.mahilpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.majitha",
+      "name": "pb.majitha",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.makhu",
+      "name": "pb.makhu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.malerkotla",
+      "name": "pb.malerkotla",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mallanwala",
+      "name": "pb.mallanwala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.maloud",
+      "name": "pb.maloud",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.malout",
+      "name": "pb.malout",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.maluka",
+      "name": "pb.maluka",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mamdot",
+      "name": "pb.mamdot",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mandigobindgarh",
+      "name": "pb.mandigobindgarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mandikalan",
+      "name": "pb.mandikalan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mansa",
+      "name": "pb.mansa",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.maur",
+      "name": "pb.maur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mehatpur",
+      "name": "pb.mehatpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mehraj",
+      "name": "pb.mehraj",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.moga",
+      "name": "pb.moga",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mohali",
+      "name": "pb.mohali",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.moonak",
+      "name": "pb.moonak",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.morinda",
+      "name": "pb.morinda",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mudki",
+      "name": "pb.mudki",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mukerian",
+      "name": "pb.mukerian",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.muktsar",
+      "name": "pb.muktsar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.mullanpur",
+      "name": "pb.mullanpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.nabha",
+      "name": "pb.nabha",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.nadala",
+      "name": "pb.nadala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.nakodar",
+      "name": "pb.nakodar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.nangal",
+      "name": "pb.nangal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.narotjaimalsingh",
+      "name": "pb.narotjaimalsingh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.nathana",
+      "name": "pb.nathana",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.nayagaon",
+      "name": "pb.nayagaon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.nihalsinghwala",
+      "name": "pb.nihalsinghwala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.nurmahal",
+      "name": "pb.nurmahal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.pathankot",
+      "name": "pb.pathankot",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.patiala",
+      "name": "pb.patiala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.patran",
+      "name": "pb.patran",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.patti",
+      "name": "pb.patti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.payal",
+      "name": "pb.payal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.phillaur",
+      "name": "pb.phillaur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.quadian",
+      "name": "pb.quadian",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.rahon",
+      "name": "pb.rahon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.raikot",
+      "name": "pb.raikot",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.rajasansi",
+      "name": "pb.rajasansi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.rajpura",
+      "name": "pb.rajpura",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.raman",
+      "name": "pb.raman",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.ramdass",
+      "name": "pb.ramdass",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.rampura",
+      "name": "pb.rampura",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.rampuraphul",
+      "name": "pb.rampuraphul",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.rayya",
+      "name": "pb.rayya",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.ropar",
+      "name": "pb.ropar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.sahnewal",
+      "name": "pb.sahnewal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.samana",
+      "name": "pb.samana",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.samrala",
+      "name": "pb.samrala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.sanaur",
+      "name": "pb.sanaur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.sangatmandi",
+      "name": "pb.sangatmandi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.sangrur",
+      "name": "pb.sangrur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.sardulgarh",
+      "name": "pb.sardulgarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.shahkot",
+      "name": "pb.shahkot",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.shamchurasi",
+      "name": "pb.shamchurasi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.sirhind",
+      "name": "pb.sirhind",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.srihargobindpur",
+      "name": "pb.srihargobindpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.sujanpur",
+      "name": "pb.sujanpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.sultanpurlodhi",
+      "name": "pb.sultanpurlodhi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.sunam",
+      "name": "pb.sunam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.talwandibhai",
+      "name": "pb.talwandibhai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.talwandisabo",
+      "name": "pb.talwandisabo",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.talwara",
+      "name": "pb.talwara",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.tapa",
+      "name": "pb.tapa",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.tarntaran",
+      "name": "pb.tarntaran",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.urmartanda",
+      "name": "pb.urmartanda",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.zira",
+      "name": "pb.zira",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.zirakpur",
+      "name": "pb.zirakpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.agra",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Derabassi",
+=======
+      "name": "up.agra",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.aligarh",
+      "name": "up.aligarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.fatehpur",
+      "name": "up.fatehpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ghaziabad",
+      "name": "up.ghaziabad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lucknow",
+      "name": "up.lucknow",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.varanasi",
+      "name": "up.varanasi",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.dehradun",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Dehradun",
+=======
+      "name": "uk.dehradun",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.haldwani",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Haldwani",
+=======
+      "name": "uk.haldwani",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.haridwar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Haridwar",
+=======
+      "name": "uk.haridwar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.roorkee",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Roorkee",
+=======
+      "name": "uk.roorkee",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.rudrapur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Rudrapur",
+=======
+      "name": "uk.rudrapur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.kashipur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kashipur",
+=======
+      "name": "uk.kashipur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.rishikesh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Rishikesh",
+=======
+      "name": "uk.rishikesh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.kotdwar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kotdwar",
+=======
+      "name": "uk.kotdwar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.mahuwadawara",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Mahuwadawara",
+=======
+      "name": "uk.mahuwadawara",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.shaktigarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Shaktigarh",
+=======
+      "name": "uk.shaktigarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.jaspur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Jaspur",
+=======
+      "name": "uk.jaspur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.almora",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Almora",
+=======
+      "name": "uk.almora",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.chamba",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Chamba",
+=======
+      "name": "uk.chamba",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.uttarkashi",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Uttarkashi",
+=======
+      "name": "uk.uttarkashi",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.joshimath",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Joshimath",
+=======
+      "name": "uk.joshimath",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.karnaprayag",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Karnaprayag",
+=======
+      "name": "uk.karnaprayag",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.pokhari",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Pokhari",
+=======
+      "name": "uk.pokhari",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.augustmuni",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Augustmuni",
+=======
+      "name": "uk.augustmuni",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.ukhimath",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Ukhimath",
+=======
+      "name": "uk.ukhimath",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.lohaghat",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Lohaghat",
+=======
+      "name": "uk.lohaghat",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.bageshwar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bageshwar",
+=======
+      "name": "uk.bageshwar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.bhimtal",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bhimtal",
+=======
+      "name": "uk.bhimtal",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.pithoragarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Pithoragarh",
+=======
+      "name": "uk.pithoragarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.berinag",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Berinag",
+=======
+      "name": "uk.berinag",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.kaladhungi",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kaladhungi",
+=======
+      "name": "uk.kaladhungi",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.gadarpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Gadarpur",
+=======
+      "name": "uk.gadarpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.gairsain",
+      "name": "Gairsain",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.manglaur",
+      "name": "manglaur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.srinagar",
+      "name": "Srinagar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.bhowali",
+      "name": "Bhowali",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.tilwara",
+      "name": "Tilwara",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.banbasa",
+      "name": "Banbasa",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.kedarnath",
+      "name": "Kedarnath",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.swargashramjonk",
+      "name": "swargashram jonk",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.pauri",
+      "name": "Pauri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.gauchar",
+      "name": "Gauchar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.ramnagar",
+      "name": "Ramnagar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.dwarahat",
+      "name": "Dwarahat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.gaja",
+      "name": "Gaja",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.chamiyala",
+      "name": "Chamiyala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.vikasnagar",
+      "name": "Vikasnagar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.rudraprayag",
+      "name": "Rudraprayag",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.lalkuan",
+      "name": "lalkuan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.mahuakheraganj",
+      "name": "Mahua Kheraganj",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.dugadda",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Dugadda",
+=======
+      "name": "uk.dugadda",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.ghansali",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Ghansali",
+=======
+      "name": "uk.ghansali",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.narendranagar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Narendranagar",
+=======
+      "name": "uk.narendranagar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.testing",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Testing",
+=======
+      "name": "uk.testing",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.barkot",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Barkot",
+=======
+      "name": "uk.barkot",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.chinyalisaur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Chinyalisaur",
+=======
+      "name": "uk.chinyalisaur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.gangotri",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Gangotri",
+=======
+      "name": "uk.gangotri",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.kirtinagar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kirtinagar",
+=======
+      "name": "uk.kirtinagar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.lambgaon",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Lambgaon",
+=======
+      "name": "uk.lambgaon",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.munikireti",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Munikireti",
+=======
+      "name": "uk.munikireti",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.nandprayag",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Nandprayag",
+=======
+      "name": "uk.nandprayag",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.purola",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Purola",
+=======
+      "name": "uk.purola",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.tharali",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Tharali",
+=======
+      "name": "uk.tharali",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.bhagwanpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bhagwanpur",
+=======
+      "name": "uk.bhagwanpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.chamoligopeshwar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Chamoli Gopeshwar",
+=======
+      "name": "uk.chamoli Gopeshwar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.didihat",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Didihat",
+=======
+      "name": "uk.didihat",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.doiwala",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Doiwala",
+=======
+      "name": "uk.doiwala",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.gularbhoj",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Gularbhoj",
+=======
+      "name": "uk.gularbhoj",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.jhabrera",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Jhabrera",
+=======
+      "name": "uk.jhabrera",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.naugaon",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Naugaon",
+=======
+      "name": "uk.naugaon",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.tehri",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Tehri",
+=======
+      "name": "uk.tehri",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.laksar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Laksar",
+=======
+      "name": "uk.laksar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.pipalkoti",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "PIPALKOTI",
+=======
+      "name": "uk.pIPALKOTI",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.gangolihat",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Gangolihat",
+=======
+      "name": "uk.gangolihat",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.devaprayag",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Devaprayag",
+=======
+      "name": "uk.devaprayag",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.nanakmatta",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Nanakmatta",
+=======
+      "name": "uk.nanakmatta",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.dharchula",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Dharchula ",
+=======
+      "name": "uk.dharchula ",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.herbertpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Herbertpur",
+=======
+      "name": "uk.herbertpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.sitarganj",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Sitarganj",
+=======
+      "name": "uk.sitarganj",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.sultanpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Sultanpur",
+=======
+      "name": "uk.sultanpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.bazpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bazpur",
+=======
+      "name": "uk.bazpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.khatima",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Khatima",
+=======
+      "name": "uk.khatima",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.dineshpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Dineshpur",
+=======
+      "name": "uk.dineshpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.kichha",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kichha",
+=======
+      "name": "uk.kichha",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.badrinath",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Badrinath",
+=======
+      "name": "uk.badrinath",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.tanakpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Tanakpur",
+=======
+      "name": "uk.tanakpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.pirankaliyar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Piran kaliyar",
+=======
+      "name": "uk.piran kaliyar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.kapkot",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kapkot",
+=======
+      "name": "uk.kapkot",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.champawat",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Champawat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.uttarkhand",
+      "name": "Uttarkhand",
+=======
+      "name": "uk.champawat",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.mussorie",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Mussorie",
+=======
+      "name": "uk.mussorie",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.nainital",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Nainital",
+=======
+      "name": "uk.nainital",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.landhaura",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Landhaura",
+=======
+      "name": "uk.landhaura",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.satpuli",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Satpuli",
+=======
+      "name": "uk.satpuli",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttarakhand",
+      "stateName": "Uttarakhand",
+      "code": "uk.bhikiyasain",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bhikiyasain",
+=======
+      "name": "uk.bhikiyasain",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.cuttack",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Cuttack",
+=======
+      "name": "od.cuttack",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.jatni",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Jatni",
+=======
+      "name": "od.jatni",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.angul",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Angul",
+=======
+      "name": "od.angul",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.choudwar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Choudwar",
+=======
+      "name": "od.choudwar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.berhampurdevelopmentauthority",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Berhampur Development Authority",
+=======
+      "name": "od.berhampurdevelopmentauthority",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.birmitrapur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Birmitrapur",
+=======
+      "name": "od.birmitrapur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.berhampur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Berhampur",
+=======
+      "name": "od.berhampur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.chatrapur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Chatrapur",
+=======
+      "name": "od.chatrapur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.cuttackdevelopmentauthority",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Cuttack Development Authority",
+=======
+      "name": "od.cuttackdevelopmentauthority",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.gopalpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Gopalpur",
+=======
+      "name": "od.gopalpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.kalinganagardevelopmentauthority",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kalinga Nagar Development Authority",
+=======
+      "name": "od.kalinganagardevelopmentauthority",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.khordha",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Khordha",
+=======
+      "name": "od.khordha",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.konark",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Konark",
+=======
+      "name": "od.konark",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.paradeep",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Paradeep",
+=======
+      "name": "od.paradeep",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.paradipdevelopmentauthority",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Paradip Development Authority",
+=======
+      "name": "od.paradipdevelopmentauthority",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.puri",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Puri",
+=======
+      "name": "od.puri",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.purikonarkdevelopmentauthority",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Puri Konark Development Authority",
+=======
+      "name": "od.purikonarkdevelopmentauthority",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.rajgangpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Rajgangpur",
+=======
+      "name": "od.rajgangpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.rourkela",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Rourkela",
+=======
+      "name": "od.rourkela",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.rourkeladevelopmentauthority",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Rourkela Development Authority",
+=======
+      "name": "od.rourkeladevelopmentauthority",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.sambalpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Sambalpur",
+=======
+      "name": "od.sambalpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.sambalpurdevelopmentauthority",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Sambalpur Development Authority",
+=======
+      "name": "od.sambalpurdevelopmentauthority",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.sundargarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Sundargarh",
+=======
+      "name": "od.sundargarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.talcher",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Talcher",
+=======
+      "name": "od.talcher",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.talcherangulmeramandalidevelopmentauthority",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Talcher Angul Meramandali Development Authority",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "Odisha",
+      "name": "Odisha",
+=======
+      "name": "od.talcherangulmeramandalidevelopmentauthority",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.vyasanagar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Vyasanagar",
+=======
+      "name": "od.vyasanagar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.testing",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "testing",
+=======
+      "name": "od.testing",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.balasore",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Balasore",
+=======
+      "name": "od.balasore",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.dhenkanal",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Dhenkanal",
+=======
+      "name": "od.dhenkanal",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.anandapur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Anandapur",
+=======
+      "name": "od.anandapur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.aska",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Aska",
+=======
+      "name": "od.aska",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.athagarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Athagarh",
+=======
+      "name": "od.athagarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.athmallik",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Athmallik",
+=======
+      "name": "od.athmallik",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.attabira",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Attabira",
+=======
+      "name": "od.attabira",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.balangir",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Balangir",
+=======
+      "name": "od.balangir",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.balimela",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Balimela",
+=======
+      "name": "od.balimela",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.balliguda",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Balliguda ",
+=======
+      "name": "od.balliguda ",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.balugaon",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Balugaon",
+=======
+      "name": "od.balugaon",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.banki",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Banki",
+=======
+      "name": "od.banki",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.banpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Banpur",
+=======
+      "name": "od.banpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.bargarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bargarh",
+=======
+      "name": "od.bargarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.barbil",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Barbil",
+=======
+      "name": "od.barbil",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.baripada",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Baripada",
+=======
+      "name": "od.baripada",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.barpali",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Barpali",
+=======
+      "name": "od.barpali",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.basudevpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Basudevpur",
+=======
+      "name": "od.basudevpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.bellaguntha",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bellaguntha",
+=======
+      "name": "od.bellaguntha",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.belpahar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Belpahar",
+=======
+      "name": "od.belpahar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.bhadrak",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bhadrak",
+=======
+      "name": "od.bhadrak",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.bhanjanagar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bhanjanagar",
+=======
+      "name": "od.bhanjanagar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.bhawanipatna",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bhawanipatna",
+=======
+      "name": "od.bhawanipatna",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.bhuban",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bhuban",
+=======
+      "name": "od.bhuban",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.bhubaneswar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bhubaneswar",
+=======
+      "name": "od.bhubaneswar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.bhubaneswardevelopmentauthority",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bhubaneswar Development Authority",
+=======
+      "name": "od.bhubaneswar Development Authority",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.bijepur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Bijepur",
+=======
+      "name": "od.bijepur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.binka",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Binka",
+=======
+      "name": "od.binka",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.boudhgarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Boudhgarh",
+=======
+      "name": "od.boudhgarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.brajrajnagar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Brajrajnagar",
+=======
+      "name": "od.brajrajnagar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.buguda",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Buguda",
+=======
+      "name": "od.buguda",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.champua",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Champua",
+=======
+      "name": "od.champua",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.chandbali",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Chandbali",
+=======
+      "name": "od.chandbali",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.chikiti",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Chikiti",
+=======
+      "name": "od.chikiti",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.daspalla",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Daspalla",
+=======
+      "name": "od.daspalla",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.deogarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Deogarh",
+=======
+      "name": "od.deogarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.dhamnagar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Dhamnagar",
+=======
+      "name": "od.dhamnagar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.dharamgarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Dharamgarh",
+=======
+      "name": "od.dharamgarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.digapahandi",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Digapahandi",
+=======
+      "name": "od.digapahandi",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.gudayagiri",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "G. Udayagiri",
+=======
+      "name": "od.g. Udayagiri",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.ganjam",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Ganjam",
+=======
+      "name": "od.ganjam",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.gudari",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Gudari",
+=======
+      "name": "od.gudari",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.gunupur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Gunupur",
+=======
+      "name": "od.gunupur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.hindol",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Hindol",
+=======
+      "name": "od.hindol",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.hinjilicut",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Hinjilicut",
+=======
+      "name": "od.hinjilicut",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.jagatsinghpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Jagatsinghpur",
+=======
+      "name": "od.jagatsinghpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.jajpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Jajpur",
+=======
+      "name": "od.jajpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.jaleswar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Jaleswar",
+=======
+      "name": "od.jaleswar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.jeypore",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Jeypore",
+=======
+      "name": "od.jeypore",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.jharsuguda",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Jharsuguda",
+=======
+      "name": "od.jharsuguda",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.joda",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Joda",
+=======
+      "name": "od.joda",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.junagarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Junagarh",
+=======
+      "name": "od.junagarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.kamakhyanagar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kamakhyanagar",
+=======
+      "name": "od.kamakhyanagar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.kantabanji",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kantabanji",
+=======
+      "name": "od.kantabanji",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.karanjia",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Karanjia",
+=======
+      "name": "od.karanjia",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.kashinagar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kashinagar",
+=======
+      "name": "od.kashinagar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.kabisuryanagar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kabisuryanagar",
+=======
+      "name": "od.kabisuryanagar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.kendrapara",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kendrapara",
+=======
+      "name": "od.kendrapara",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.keonjhargarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Keonjhargarh",
+=======
+      "name": "od.keonjhargarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.kesinga",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kesinga",
+=======
+      "name": "od.kesinga",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.khallikote",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Khallikote",
+=======
+      "name": "od.khallikote",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.khandapada",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Khandapada",
+=======
+      "name": "od.khandapada",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.khariar",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Khariar",
+=======
+      "name": "od.khariar",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.khariarroad",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Khariar Road",
+=======
+      "name": "od.khariar Road",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.kodala",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kodala",
+=======
+      "name": "od.kodala",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.koraput",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Koraput",
+=======
+      "name": "od.koraput",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.kotpad",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kotpad",
+=======
+      "name": "od.kotpad",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.kuchinda",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Kuchinda",
+=======
+      "name": "od.kuchinda",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.malkangiri",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Malkangiri",
+=======
+      "name": "od.malkangiri",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.nayagarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Nayagarh",
+=======
+      "name": "od.nayagarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.nilgiri",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Nilgiri",
+=======
+      "name": "od.nilgiri",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.nimapara",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Nimapara",
+=======
+      "name": "od.nimapara",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.nabarangpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Nabarangpur",
+=======
+      "name": "od.nabarangpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.nuapada",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Nuapada",
+=======
+      "name": "od.nuapada",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.odagaon",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Odagaon",
+=======
+      "name": "od.odagaon",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.padampur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Padampur",
+=======
+      "name": "od.padampur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.paralakhemundi",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Paralakhemundi",
+=======
+      "name": "od.paralakhemundi",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.patnagarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Patnagarh",
+=======
+      "name": "od.patnagarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.pattamundai",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Pattamundai",
+=======
+      "name": "od.pattamundai",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.phulbani",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Phulbani",
+=======
+      "name": "od.phulbani",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.pipli",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Pipli",
+=======
+      "name": "od.pipli",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.polasara",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Polasara",
+=======
+      "name": "od.polasara",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.purushottampur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Purushottampur",
+=======
+      "name": "od.purushottampur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.rairangpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Rairangpur",
+=======
+      "name": "od.rairangpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.rambha",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Rambha",
+=======
+      "name": "od.rambha",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.ranpur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Ranpur",
+=======
+      "name": "od.ranpur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.rayagada",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Rayagada",
+=======
+      "name": "od.rayagada",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.redhakhol",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Redhakhol",
+=======
+      "name": "od.redhakhol",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.sonepur",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Sonepur",
+=======
+      "name": "od.sonepur",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.soro",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Soro",
+=======
+      "name": "od.soro",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.surada",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Surada",
+=======
+      "name": "od.surada",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.sunabeda",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Sunabeda",
+=======
+      "name": "od.sunabeda",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.tarbha",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Tarbha",
+=======
+      "name": "od.tarbha",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.titilagarh",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Titilagarh",
+=======
+      "name": "od.titilagarh",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.tusura",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Tusura",
+=======
+      "name": "od.tusura",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.udala",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Udala",
+=======
+      "name": "od.udala",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Odisha",
+      "stateName": "Odisha",
+      "code": "od.umerkote",
+<<<<<<< HEAD:data/pb/tenant/nationalInfo.json
+      "name": "Umerkote",
+=======
+      "name": "od.umerkote",
+>>>>>>> lts-demo:data/pg/tenant/nationalInfo.json
+      "active": true,
+      "module": "NationalDashboard"
+    }
+  ]
+}

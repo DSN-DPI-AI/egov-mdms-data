@@ -1,0 +1,64 @@
+{
+<<<<<<< HEAD:data/pb/PropertyTax/MutationReason.json
+  "tenantId": "pb",
+=======
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/PropertyTax/MutationReason.json
+  "moduleName": "PropertyTax",
+  "MutationReason": [
+    {
+      "code": "SALEDEED",
+      "active": true
+    },
+    {
+      "code": "GIFTDEED",
+      "active": true
+    },
+    {
+      "code": "PATTACERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "REGISTEREDWILLDEED",
+      "active": true
+    },
+    {
+      "code": "PARTITIONDEED",
+      "active": true
+    },
+    {
+      "code": "COURTDECREE",
+      "active": true
+    },
+    {
+      "code": "PROPERTYAUCTION",
+      "active": true
+    },
+    {
+      "code": "SUCCESSIONORDEATHCERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "FAMILYSETTLEMENT",
+      "active": true
+    },
+    {
+      "code": "UNREGISTEREDWILLDEED",
+      "active": true
+    },
+    {
+      "code": "CORRECTIONINNAME",
+      "active": true
+<<<<<<< HEAD:data/pb/PropertyTax/MutationReason.json
+    }
+  ]
+}
+=======
+    },
+    {
+      "code": "CHANGEINOWNERSPECIALCATEGORY",
+      "active": true
+    }
+  ]
+} 
+>>>>>>> lts-demo:data/pg/PropertyTax/MutationReason.json

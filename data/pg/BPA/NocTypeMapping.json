@@ -1,0 +1,98 @@
+{
+<<<<<<< HEAD:data/pb/BPA/NocTypeMapping.json
+  "tenantId": "pb",
+=======
+  "tenantId": "pg",
+>>>>>>> lts-demo:data/pg/BPA/NocTypeMapping.json
+  "moduleName": "BPA",
+  "NocTypeMapping": [
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "serviceType": "NEW_CONSTRUCTION",
+      "riskType": "ALL",
+<<<<<<< HEAD:data/pb/BPA/NocTypeMapping.json
+      "nocTriggerState": "CITIZEN_APPROVAL_INPROCESS",
+=======
+      "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
+>>>>>>> lts-demo:data/pg/BPA/NocTypeMapping.json
+      "nocTypes": [
+        {
+          "type": "AIRPORT_AUTHORITY",
+          "required": true,
+          "documentType": "NOC.AIRPORT"
+        },
+        {
+          "type": "FIRE_NOC",
+          "required": false,
+          "documentType": "NOC.FIRE"
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "serviceType": "NEW_CONSTRUCTION",
+      "riskType": "LOW",
+<<<<<<< HEAD:data/pb/BPA/NocTypeMapping.json
+      "nocTriggerState": "CITIZEN_APPROVAL_INPROCESS",
+=======
+      "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
+>>>>>>> lts-demo:data/pg/BPA/NocTypeMapping.json
+      "nocTypes": [
+        {
+          "type": "AIRPORT_AUTHORITY",
+          "required": true,
+          "documentType": "NOC.AIRPORT"
+        },
+        {
+          "type": "FIRE_NOC",
+          "required": false,
+          "documentType": "NOC.FIRE"
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "serviceType": "NEW_CONSTRUCTION",
+      "riskType": "ALL",
+<<<<<<< HEAD:data/pb/BPA/NocTypeMapping.json
+      "nocTriggerState": "CITIZEN_APPROVAL_INPROCESS",
+=======
+      "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
+>>>>>>> lts-demo:data/pg/BPA/NocTypeMapping.json
+      "nocTypes": [
+        {
+          "type": "AIRPORT_AUTHORITY",
+          "required": true,
+          "documentType": "NOC.AIRPORT"
+        },
+        {
+          "type": "FIRE_NOC",
+          "required": false,
+          "documentType": "NOC.FIRE"
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "serviceType": "NEW_CONSTRUCTION",
+      "riskType": "LOW",
+<<<<<<< HEAD:data/pb/BPA/NocTypeMapping.json
+      "nocTriggerState": "CITIZEN_APPROVAL_INPROCESS",
+=======
+      "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
+>>>>>>> lts-demo:data/pg/BPA/NocTypeMapping.json
+      "nocTypes": [
+        {
+          "type": "AIRPORT_AUTHORITY",
+          "required": true,
+          "documentType": "NOC.AIRPORT"
+        },
+        {
+          "type": "FIRE_NOC",
+          "required": false,
+          "documentType": "NOC.FIRE"
+        }
+      ]
+    }
+  ]
+}

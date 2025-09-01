@@ -1370,11 +1370,7 @@
         }
       ]
     },
-<<<<<<< HEAD:data/pb/DataSecurity/DecryptionABAC.json
-     {
-=======
     {
->>>>>>> lts-demo:data/pg/DataSecurity/DecryptionABAC.json
       "key": "PTCollectionReport",
       "roleAttributeAccessList": [
         {
@@ -1406,11 +1402,7 @@
         }
       ]
     },
-<<<<<<< HEAD:data/pb/DataSecurity/DecryptionABAC.json
-     {
-=======
     {
->>>>>>> lts-demo:data/pg/DataSecurity/DecryptionABAC.json
       "key": "DefaulterReport",
       "roleAttributeAccessList": [
         {
@@ -1443,180 +1435,7 @@
       ]
     },
     {
-<<<<<<< HEAD:data/pb/DataSecurity/DecryptionABAC.json
-        "key" : "BndDetail",
-        "roleAttributeAccessList" : [
-          {
-            "roleCode" : "CITIZEN",
-            "attributeAccessList" : [
-              {
-                "attribute" : {
-                  "jsonPath" : "*/mobileno",
-                  "maskingTechnique" : "mobile"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/emailid"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/aadharno"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/icdcode"
-                },
-                "accessType" : "PLAIN"
-              }
-            ]
-          },
-		  {
-            "roleCode" : "EMPLOYEE",
-            "attributeAccessList" : [
-              {
-                "attribute" : {
-                  "jsonPath" : "*/mobileno",
-                  "maskingTechnique" : "mobile"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/emailid"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/aadharno"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/icdcode"
-                },
-                "accessType" : "PLAIN"
-              }
-            ]
-          }
-		  
-        ]
-      },
-      {
-        "key": "TradeLicenseDailyCollectionReport",
-        "roleAttributeAccessList": [
-          {
-            "roleCode": "EMPLOYEE",
-            "attributeAccessList": [
-              {
-                "attribute": {
-                  "jsonPath": "*/name"
-                },
-                "accessType": "PLAIN"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "TradeLicensApplicationStatusReport",
-        "roleAttributeAccessList": [
-          {
-            "roleCode": "EMPLOYEE",
-            "attributeAccessList": [
-              {
-                "attribute": {
-                  "jsonPath": "*/name"
-                },
-                "accessType": "PLAIN"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "TLRegistryReport",
-        "roleAttributeAccessList": [
-          {
-            "roleCode": "EMPLOYEE",
-            "attributeAccessList": [
-              {
-                "attribute": {
-                  "jsonPath": "*/name"
-                },
-                "accessType": "PLAIN"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "TLRenewalPendingReport",
-        "roleAttributeAccessList": [
-          {
-            "roleCode": "EMPLOYEE",
-            "attributeAccessList": [
-              {
-                "attribute": {
-                  "jsonPath": "*/name"
-                },
-                "accessType": "PLAIN"
-              },
-              {
-                "attribute": {
-                  "jsonPath": "*/mobilenumber",
-                  "maskingTechnique": "mobile"
-                },
-                "accessType": "PLAIN"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "WnsReceiptRegisterReport",
-        "roleAttributeAccessList": [
-          {
-            "roleCode": "EMPLOYEE",
-            "attributeAccessList": [
-              {
-                "attribute": {
-                  "jsonPath": "*/name"
-                },
-                "accessType": "PLAIN"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ObpsDailyCollectionReport",
-        "roleAttributeAccessList": [
-          {
-            "roleCode": "EMPLOYEE",
-            "attributeAccessList": [
-              {
-                "attribute": {
-                  "jsonPath": "*/name"
-                },
-                "accessType": "PLAIN"
-              }
-            ]
-          }
-        ]
-      },
-    {
-      "key": "ObpsApplicationStatusReport",
-=======
       "key": "TradeLicenseDailyCollectionReport",
->>>>>>> lts-demo:data/pg/DataSecurity/DecryptionABAC.json
       "roleAttributeAccessList": [
         {
           "roleCode": "EMPLOYEE",
@@ -1629,11 +1448,7 @@
             },
             {
               "attribute": {
-<<<<<<< HEAD:data/pb/DataSecurity/DecryptionABAC.json
-                "jsonPath": "*/currentowner"
-=======
                 "jsonPath": "*/userName"
->>>>>>> lts-demo:data/pg/DataSecurity/DecryptionABAC.json
               },
               "accessType": "PLAIN"
             }
@@ -1641,70 +1456,6 @@
         }
       ]
     },
-<<<<<<< HEAD:data/pb/DataSecurity/DecryptionABAC.json
-      {
-        "key": "WnsCollectionRegisterReport",
-        "roleAttributeAccessList": [
-          {
-            "roleCode": "EMPLOYEE",
-            "attributeAccessList": [
-              {
-                "attribute": {
-                  "jsonPath": "*/name"
-                },
-                "accessType": "PLAIN"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "WnsDefaulterReport",
-        "roleAttributeAccessList": [
-          {
-            "roleCode": "EMPLOYEE",
-            "attributeAccessList": [
-              {
-                "attribute": {
-                  "jsonPath": "*/name"
-                },
-                "accessType": "PLAIN"
-              }
-            ]
-          }
-        ]
-      },
-      {
-          "key" : "Property",
-          "roleAttributeAccessList" : [
-            {
-              "roleCode" : "CITIZEN",
-              "attributeAccessList" : [
-                {
-                  "attribute" : {
-                    "jsonPath" : "*/street",
-                    "maskingTechnique" : "mobile"
-                  },
-                  "accessType" : "PLAIN"
-                }
-              ]
-            },
-            {
-              "roleCode" : "EMPLOYEE",
-              "attributeAccessList" : [
-                {
-                  "attribute" : {
-                    "jsonPath" : "*/street",
-                    "maskingTechnique" : "mobile"
-                  },
-                  "accessType" : "PLAIN"
-                }
-              ]
-            }
-        
-          ]
-        }
-=======
     {
       "key": "TLApplicationStatusReport",
       "roleAttributeAccessList": [
@@ -1873,6 +1624,5 @@
         }
       ]
     }
->>>>>>> lts-demo:data/pg/DataSecurity/DecryptionABAC.json
   ]
 }

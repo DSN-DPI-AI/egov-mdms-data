@@ -1,0 +1,131 @@
+{
+  "tenantId": "kn",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "kn.kano",
+      "name": "Kano Municipal",
+      "description": "Kano Municipal Local Government Area",
+      "pincode": [700001, 700002],
+      "logoId": "https://s3.ap-south-1.amazonaws.com/digit-assets/kn.kano/logo.png",
+      "imageId": null,
+      "domainUrl": "https://kano.gov.ng",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "kanomunicipal@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Kano Municipal",
+        "localName": "Kano Municipal",
+        "districtCode": "KANOMUNI",
+        "districtName": "Kano Municipal",
+        "districtTenantCode": "kn.kano",
+        "regionName": "Kano Central",
+        "ulbGrade": "Local Government",
+        "longitude": 8.5166,
+        "latitude": 12.0022,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "KN01",
+        "ddrName": "DDR Kano"
+      },
+      "address": "Kano Municipal LGA Secretariat",
+      "contactNumber": "080-11111111"
+    },
+    {
+      "code": "kn.nasarawa",
+      "name": "Nasarawa LGA",
+      "description": "Nasarawa Local Government Area",
+      "pincode": [700101, 700102],
+      "logoId": "https://s3.ap-south-1.amazonaws.com/digit-assets/kn.nasarawa/logo.png",
+      "imageId": null,
+      "domainUrl": "https://kano.gov.ng",
+      "type": "CITY",
+      "emailId": "nasarawa@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Nasarawa",
+        "localName": "Nasarawa",
+        "districtCode": "NASARAWA",
+        "districtName": "Nasarawa",
+        "districtTenantCode": "kn.nasarawa",
+        "regionName": "Kano Central",
+        "ulbGrade": "Local Government",
+        "longitude": 8.5833,
+        "latitude": 12.0000,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "KN02",
+        "ddrName": "DDR Kano"
+      },
+      "address": "Nasarawa LGA Secretariat",
+      "contactNumber": "080-22222222"
+    },
+    {
+      "code": "kn.fagge",
+      "name": "Fagge LGA",
+      "description": "Fagge Local Government Area",
+      "pincode": [700201, 700202],
+      "logoId": "https://s3.ap-south-1.amazonaws.com/digit-assets/kn.fagge/logo.png",
+      "imageId": null,
+      "domainUrl": "https://kano.gov.ng",
+      "type": "CITY",
+      "emailId": "fagge@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Fagge",
+        "localName": "Fagge",
+        "districtCode": "FAGGE",
+        "districtName": "Fagge",
+        "districtTenantCode": "kn.fagge",
+        "regionName": "Kano Central",
+        "ulbGrade": "Local Government",
+        "longitude": 8.5160,
+        "latitude": 12.0330,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "KN03",
+        "ddrName": "DDR Kano"
+      },
+      "address": "Fagge LGA Secretariat",
+      "contactNumber": "080-33333333"
+    },
+    {
+      "code": "kn",
+      "name": "Kano State",
+      "description": "Kano State Tenant",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/digit-assets/kn/logo.png",
+      "imageId": null,
+      "domainUrl": "https://kano.gov.ng",
+      "type": "STATE",
+      "emailId": "kanostate@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Kano State",
+        "localName": "Jihar Kano",
+        "districtCode": "KN",
+        "districtName": "Kano State",
+        "districtTenantCode": "kn",
+        "regionName": "North-West",
+        "ulbGrade": "STATE",
+        "longitude": 8.5221,
+        "latitude": 12.0022,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "KN00",
+        "ddrName": null
+      },
+      "address": "Kano State Secretariat",
+      "contactNumber": "080-44444444"
+    }
+  ]
+}

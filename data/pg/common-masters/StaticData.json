@@ -7,8 +7,8 @@
                 "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
                 "helpline": 
                 { 
-                  "contactOne": "7878787878",
-                  "contactTwo": "7979797979"
+                  "contactOne": "+234 814 000 0853",
+                  "contactTwo": "+234 814 000 0853"
                 },
                 "serviceCenter": "#AI Hub, 33 Queen Street, Yaba, Lagos, Nigeria",
                 "staticDataOne": "7-10",
@@ -19,18 +19,18 @@
             "TL" : {
                 "helpline": 
                 { 
-                  "contactOne": "7878787878",
-                  "contactTwo": "7979797979"
+                  "contactOne": "+234 814 000 0853",
+                  "contactTwo": "+234 814 000 0853"
                 },
-                "serviceCenter": "#AI Hub, 33 Queen Street, Yaba, Lagos, Nigeria",
+                "serviceCenter": "AI Hub, 33 Queen Street, Yaba, Lagos, Nigeria",
                 "viewMapLocation": "google.com/maps?sca_esv=50ae17e33ffbd3d5&output=search&q=AI+Hub,+33+Queen+Street,+Yaba,+Lagos,+Nigeria&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeuyr9ljWioGWIw0oasFed3q5v-jrTO4UFmLjWc-eQrSDAn5yCiUOywCEMyD2GzPsDy2WTQjvUXf-_UnfslWisKr0tggEcaE8Ia62qhVIuTRZYXZWSMGleNB003JWdLBXSyZ0K-oaYsqMKbZ4kwdPaN_Szp4vjjVLKKqEE3aCpCUmGiflRQ&entry=mc&ved=1t:200715&ictx=111"
             },
 
             "MCOLLECT" : {
                 "helpline": 
                 { 
-                  "contactOne": "7878787878",
-                  "contactTwo": "7979797979"
+                  "contactOne": "+234 814 000 0853",
+                  "contactTwo": "+234 814 000 0853"
                 },
                 "serviceCenter": "#AI Hub, 33 Queen Street, Yaba, Lagos, Nigeria",
                 "viewMapLocation": "google.com/maps?sca_esv=50ae17e33ffbd3d5&output=search&q=AI+Hub,+33+Queen+Street,+Yaba,+Lagos,+Nigeria&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeuyr9ljWioGWIw0oasFed3q5v-jrTO4UFmLjWc-eQrSDAn5yCiUOywCEMyD2GzPsDy2WTQjvUXf-_UnfslWisKr0tggEcaE8Ia62qhVIuTRZYXZWSMGleNB003JWdLBXSyZ0K-oaYsqMKbZ4kwdPaN_Szp4vjjVLKKqEE3aCpCUmGiflRQ&entry=mc&ved=1t:200715&ictx=111"
@@ -38,8 +38,8 @@
             "PGR" : {
               "helpline": 
               { 
-                "contactOne": "7878787878",
-                "contactTwo": "7979797979"
+                "contactOne": "+234 814 000 0853",
+                "contactTwo": "+234 814 000 0853"
               },
               "serviceCenter": "#AI Hub, 33 Queen Street, Yaba, Lagos, Nigeria",
               "viewMapLocation": "google.com/maps?sca_esv=50ae17e33ffbd3d5&output=search&q=AI+Hub,+33+Queen+Street,+Yaba,+Lagos,+Nigeria&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeuyr9ljWioGWIw0oasFed3q5v-jrTO4UFmLjWc-eQrSDAn5yCiUOywCEMyD2GzPsDy2WTQjvUXf-_UnfslWisKr0tggEcaE8Ia62qhVIuTRZYXZWSMGleNB003JWdLBXSyZ0K-oaYsqMKbZ4kwdPaN_Szp4vjjVLKKqEE3aCpCUmGiflRQ&entry=mc&ved=1t:200715&ictx=111"
@@ -47,8 +47,8 @@
           "OBPS" : {
             "helpline": 
               { 
-                "contactOne": "7878787878",
-                "contactTwo": "7979797979"
+                "contactOne": "+234 814 000 0853",
+                "contactTwo": "+234 814 000 0853"
               },
               "serviceCenter": "AI Hub, 33 Queen Street, Yaba, Lagos, Nigeria",
               "validity": "1",
@@ -58,8 +58,8 @@
           "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
           "helpline": 
               { 
-                "contactOne": "7878787878",
-                "contactTwo": "7979797979"
+                "contactOne": "+234 814 000 0853",
+                "contactTwo": "+234 814 000 0853"
               },
               "serviceCenter": "AI Hub, 33 Queen Street, Yaba, Lagos, Nigeria",
               "staticDataOne": "30",

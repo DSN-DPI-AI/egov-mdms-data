@@ -1,4 +1,15 @@
 {
+  "rainmaker-common": {
+  "messages": {
+    "masterName": "messages",
+    "isStateLevel": true,
+    "uniqueKeys": [
+      "$.code",
+      "$.locale",
+      "$.module"
+    ]
+  }
+},
   "ACCESSCONTROL-ACTIONS-TEST": {
     "actions-test": {
       "masterName": "actions-test",

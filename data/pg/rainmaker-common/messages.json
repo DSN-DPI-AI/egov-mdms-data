@@ -1,0 +1,36 @@
+{
+  "tenantId": "pg",
+  "moduleName": "rainmaker-common",
+  "messages": [
+    {
+      "code": "CORE_COMMON_MOBILE_NUMBER",
+      "message": "Mobile Number",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_CANCEL",
+      "message": "Cancel",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_CHOOSE_LANGUAGE",
+      "message": "Choose Language",
+      "module": "login",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_CONTINUE",
+      "message": "Continue",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PG",
+      "message": "PG",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    }
+  ]
+}
